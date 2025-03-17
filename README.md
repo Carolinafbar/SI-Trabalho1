@@ -25,22 +25,22 @@ O código foi desenvolvido em **Python 3** e utiliza apenas bibliotecas padrão 
 5. Em seguida, insira o estado final desejado do tabuleiro.
 
 6. O programa verificará se o problema tem solução. Caso tenha, você poderá escolher o algoritmo:
-- 1 para BFS
-- 2 para A*
+   - 1 para BFS
+   - 2 para A*
 
 7. Se escolher A*, será solicitado que você selecione a heurística:
-- 1 para Manhattan
+   - 1 para Manhattan
 - 2 para Hamming
-
+   
 8. O programa executará o algoritmo e exibirá:
--O número total de movimentos.
--O tempo de execução.
--A memória consumida pelo algoritmo.
+   -O número total de movimentos.
+   -O tempo de execução.
+   -A memória consumida pelo algoritmo.
 
 ## Notas Finais
-- O programa verifica se o puzzle é solucionável antes de executar os algoritmos.
-- Em casos mais complexos, o tempo e a memória utilizados podem ser significativamente maiores.
-- Para mais detalhes sobre a implementação e resultados dos testes, consulte o **Relatório do Trabalho Prático 1.docx**.
+   - O programa verifica se o puzzle é solucionável antes de executar os algoritmos.
+   - Em casos mais complexos, o tempo e a memória utilizados podem ser significativamente maiores.
+   - Para mais detalhes sobre a implementação e resultados dos testes, consulte o **Relatório do Trabalho Prático 1.docx**.
 
  Carolina de Barbosa Fernandees 
  044897@umaia.pt
